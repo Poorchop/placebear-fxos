@@ -1,0 +1,10 @@
+.ui-shadow {
+    -moz-box-shadow: none !important;
+    -webkit-box-shadow: none !important;
+    box-shadow: none !important;
+}
+
+#imageArea img {
+    width: 100%;
+    height: auto;
+}

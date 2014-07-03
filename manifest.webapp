@@ -1,0 +1,18 @@
+{
+    "name": "placebear",
+    "version": "1",
+    "description": "View random bear pictures on your phone",
+    "launch_path": "/index.html",
+    "developer": {
+        "name": "Poorchop",
+        "url": "https://github.com/Poorchop"
+    },
+    "icons": {
+        "32": "/images/icon-32.png",
+        "60": "/images/icon-60.png",
+        "90": "/images/icon-90.png",
+        "120": "/images/icon-120.png",
+        "128": "/images/icon-128.png",
+        "256": "/images/icon-256.png"
+    }
+}
