@@ -5,10 +5,9 @@ to display a random image of a bear on your phone.
 
 ***
 
-<figure style="text-align: center;">
-    <img src="https://cdn.mediacru.sh/mTGuH9wUgxXP.png" alt="Preview">
-    <figcaption>Tap the refresh icon at the top right to display a new image.</figcaption>
-</figure>
+![Preview](https://cdn.mediacru.sh/mTGuH9wUgxXP.png)
+
+Tap the refresh icon at the top right to display a new image.
 
 ### Notes:
 Credit to [Freepik.com](http://www.freepik.com/) for the icon color palette. This project uses
