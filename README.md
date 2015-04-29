@@ -5,7 +5,7 @@ to display a random image of a bear on your phone.
 
 ***
 
-![Preview](https://cdn.mediacru.sh/mTGuH9wUgxXP.png)
+![Preview](https://imgrush.com/mTGuH9wUgxXP.png)
 
 Tap the refresh icon at the top right to display a new image.
 
